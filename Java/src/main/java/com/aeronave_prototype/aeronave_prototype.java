@@ -1,4 +1,4 @@
-package Aeronave_prototype;
+package com.aeronave_prototype;
 
 
 // Clase base abstracta para aeronaves militares
@@ -93,7 +93,7 @@ class Especificaciones extends Aeronave {
 }
 
 // Clase principal
-public class Main {
+public class aeronave_prototype {
     public static void main(String[] args) {
         Modelo avionPrototipo = new Modelo("EE.UU.", "Avión de combate", "F-22 Raptor", "Superioridad aérea");
         Modelo helicopteroPrototipo = new Modelo("Rusia", "Helicóptero de combate", "Ka-52 Alligator", "Ataque y reconocimiento");
