@@ -1,0 +1,9 @@
+para el taller 1 devemos crear un builder y prototype
+tambien de los 7 ejemplos estructurales se tomara 3
+
+hasta este punto tenemos 5 casos, para mañana 27 de febrero 2025 se tomaran 5 mas con un total de 10 casos
+
+de estos 10 casos se los tiene que traspasar a java  y presentar los 20 casos y ademas realizar un informe posgase a trabajar mijito
+parese que no va a alcanzar.
+
+
